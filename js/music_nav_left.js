@@ -2,6 +2,55 @@
 // Gunakan link raw.githubusercontent.com agar file bisa di-stream langsung
 // --- 1. DATA PLAYLIST ---
 const songList = [
+
+    {
+        title: "Lagu Cafe - 01",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2001.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+   },
+{
+        title: "Lagu Cafe - 02",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2002.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+{
+        title: "Lagu Cafe - 03",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2003.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    }, 
+{
+        title: "Lagu Cafe - 04",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2004.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+{
+        title: "Lagu Cafe - 05",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2005.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+{
+        title: "Lagu Cafe - 06",
+        artist: "Various Artists",
+        // Link sudah diperbaiki ke format RAW yang benar   
+         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2006.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+    },
+      {
+        title: "Terlalu Lelah",
+        artist: "evo Band",
+        src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/terlalu%20lelah%20-%20evo.mp3",
+        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)",
+    },
     { 
         title: "Whataya Want From Me", 
         artist: "Adam Lambert", 
@@ -661,48 +710,7 @@ const songList = [
          src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/indo%202026%2003.mp3",
         cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
     },
-{
-        title: "Lagu Cafe - 01",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2001.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-   },
-{
-        title: "Lagu Cafe - 02",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2002.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-    },
-{
-        title: "Lagu Cafe - 03",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2003.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-    }, 
-{
-        title: "Lagu Cafe - 04",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2004.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-    },
-{
-        title: "Lagu Cafe - 05",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2005.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-    },
-{
-        title: "Lagu Cafe - 06",
-        artist: "Various Artists",
-        // Link sudah diperbaiki ke format RAW yang benar   
-         src: "https://raw.githubusercontent.com/MrSukses89/my_music/main/lagu%20cafe%2006.mp3",
-        cover: "linear-gradient(135deg, #ff7e5f, #feb47b)"
-    },
+
 {
         title: "Bon Jovi - 01",
         artist: "Bon Jovi",
