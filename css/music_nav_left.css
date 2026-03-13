@@ -2,7 +2,7 @@
 .music-card {
     position: absolute;
     left: 80px;
-    top: -280px; 
+    top: -250px; 
     width: 260px;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(20px) saturate(180%);
