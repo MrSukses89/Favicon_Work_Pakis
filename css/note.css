@@ -15,7 +15,7 @@
  /* Box Catatan - SEKARANG BISA DI-RESIZE */
         .note-box {
             position: fixed;
-            top: 340px;
+            top: 450px;
             left: 50%;
             width: 600px; /* Lebar awal */
             height: 450px; /* Tinggi awal */
